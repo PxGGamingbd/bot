@@ -1,0 +1,8 @@
+BotAmino
+gtts
+yt_dlp
+orjson
+Pillow
+pytz
+numpy
+zipfile
